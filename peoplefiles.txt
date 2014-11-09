@@ -1,0 +1,13 @@
+Беда Д.  backup, db/install
+Збитнев Г. db/upgrade, lang
+Калинин Н. tests
+Калинкина М. abstract_analyzer, answer_errors, ast_handler
+Клевцов В. cw_hints, edit_correctwriting_form
+Лепилкина Е. lexical_analyzer, lexical_mistakes
+Никитский Н. lexical_pattern, lib,mistakeimage
+Пестун М. module.js, question, questiontype
+Поцелуйко А. readme, renderer, response_mistakes
+Рожков С. runtests,scanstring,sequence_analyzer
+Проводин Р. sequence_mistakes, settings,string_pair
+Пидопригора А. styles,syntax_analyzer,syntax_mistakes
+Владимиров А. textimagerenderer,version,wherepicimage
