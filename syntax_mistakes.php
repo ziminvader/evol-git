@@ -16,7 +16,7 @@
 
 /**
  * Defines an implementation of mistakes, that are determined by marking of tree
- *
+ *new coment
  * @copyright &copy; 2011  Oleg Sychev
  * @author Oleg Sychev, Dmitriy Mamontov, Volgograd State Technical University
  * @license http://www.gnu.org/copyleft/gpl.html GNU Public License
