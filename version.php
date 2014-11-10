@@ -9,18 +9,6 @@
 // CorrectWriting is distributed in the hope that it will be useful,
 // but WITHOUT ANY WARRANTY; without even the implied warranty of
 // MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-// GNU General Public License for more details.
-//
-// You should have received a copy of the GNU General Public License
-// along with CorrectWriting.  If not, see <http://www.gnu.org/licenses/>.
-
-/**
- * Version information for the correctwriting question type.
- *
- * @package    correctwriting
- * @copyright  2011 Sychev Oleg
- * @license    http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
- */
 
 defined('MOODLE_INTERNAL') || die();
 
