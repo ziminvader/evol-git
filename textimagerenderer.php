@@ -13,15 +13,6 @@
 //
 // You should have received a copy of the GNU General Public License
 // along with CorrectWriting.  If not, see <http://www.gnu.org/licenses/>.
-
-/**
- * Contains constants and functions for rendering text in images
- *
- * @package    qtype
- * @subpackage correctwriting
- * @copyright  2013 Sychev Oleg
- * @license    http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
- */
 require_once(dirname(__FILE__) . '/../../../config.php');
 require_once(dirname(__FILE__) . '/../../../lib/moodlelib.php');
 
