@@ -14,14 +14,6 @@
 // You should have received a copy of the GNU General Public License
 // along with CorrectWriting.  If not, see <http://www.gnu.org/licenses/>.
 
-/**
- * Where pic image generator, used in correctwriting to show where pic image hint
- *
- * @package    qtype
- * @subpackage correctwriting
- * @copyright  2011 Sychev Oleg
- * @license    http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
- */
 // Defines a width for drawing lines of moving, removing or adding
 define('LINE_WIDTH', 2);
 // Defines a border between label and image border on X axis
